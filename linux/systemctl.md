@@ -19,7 +19,5 @@ systemd 是一个 Linux 系统基础组件的集合，提供了一个系统和�
 
 参考文档：
 
-[arch百科，systemd说明]: https://wiki.archlinux.org/index.php/Systemd_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
-
-
+1. [arch百科](https://wiki.archlinux.org/index.php/Systemd_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
 
