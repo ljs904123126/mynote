@@ -144,7 +144,7 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '你的�
 -- 使用mysql 数据库
 USE mysql
 -- 为mysql创建用户：ljs 密码为：ljs
-CREATE USER ljs IDENTIFIED BY 'ljs';
+CREATE USER ljs@'%' IDENTIFIED BY 'ljs';
 -- 授权
 GRANT EXECUTE,INSERT,SELECT,UPDATE ON test.* TO 'ljs'@'%';
 -- 刷新权限
